@@ -1375,7 +1375,7 @@ hr {
 
     }
 
-    /* __________________________two-small-banner_____________________________________ */
+    /* __________________________two-small-banner__________________________ */
 
     .MAIN-CARD {
         width: 100%;
@@ -1455,6 +1455,11 @@ hr {
     .last {
         width: 73%;
         /* margin-left: -30px; */
+    }
+      /* ___________social media__________________-- */
+    .socials{
+        margin-right: 30px;
+
     }
 
 }
@@ -1671,6 +1676,7 @@ hr {
         margin-left: -30px;
         padding: 40px;
     }
+  
 
     /* _________________________requently asked question____________________ */
     .frequesntly {
